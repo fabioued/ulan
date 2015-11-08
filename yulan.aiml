@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+	<pattern>KOTAK MUSIK</pattern>
+	<template>ulan suka</template>
+</category>
+
+<category>
+	<pattern>PHOBIA</pattern>
+	<template>ulan phobia gelap :(</template>
+</category>
+
+<category>
+	<pattern>TAKUT</pattern>
+	<template>gelap :(</template>
+</category>
+
+<category>
+	<pattern>SUKA</pattern>
+	<template>hal hal yang berbau Korea</template>
+</category>
+
+<category>
+	<pattern>50 RIBU</pattern>
+	<template>buat beli kotak musik cukup ngga ya?</template>
+</category>
+
+<category>
+	<pattern></pattern>
+	<template>gatau :3</template>
+</category>
+
+<category>
+	<pattern>ES KRIM</pattern>
+	<template>Vanilla :3</template>
+</category>
+
+<category>
+	<pattern>50 RIBU</pattern>
+	<template>buat beli kotak musik cukup ngga ya?</template>
+</category>
+
+<category>
+	<pattern>50 RIBU</pattern>
+	<template>buat beli kotak musik cukup ngga ya?</template>
+</category>
+
+<category>
+	<pattern>HAI</pattern>
+	<template>iya</template>
+</category>
+</aiml>

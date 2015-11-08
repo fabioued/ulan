@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+  <pattern>YULAN</pattern>
+  <template>Ntar deh ulan ceritain tentang diri ulan</template>
+</category>
+
+<category>
+  <pattern>_ YULAN</pattern>
+  <template><srai>YULAN</srai></template>
+</category>
+
+<category>
+  <pattern>_ YULAN *</pattern>
+  <template><srai>YULAN</srai></template>
+</category>
+
+</aiml>

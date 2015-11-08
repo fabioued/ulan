@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category>
+	<pattern>KOTAK MUSIK</pattern>
+	<template>yulan suka</template>
+</category>
+
+<category>
+	<pattern>PHOBIA</pattern>
+	<template>GELAP</template>
+</category>
+
+<category>
+	<pattern>KAMU SUKA</pattern>
+	<template>hal hal yang berbau Korea</template>
+</category>
+
+<category>
+	<pattern>50 RIBU</pattern>
+	<template>buat beli kotak musik cukup ngga ya?</template>
+</category>
+
+<category>
+	<pattern>HAI</pattern>
+	<template>iya</template>
+</category>
+
+</aiml>
